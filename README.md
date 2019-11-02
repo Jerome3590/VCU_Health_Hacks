@@ -17,7 +17,7 @@ AWS Simple Email Service (SES) setup for receiving and processing Ancestry.com D
 
 Need to do next:
 1. Nodejs script to pull in EHR data to simulate Apple's patient portal API.
-2. NLP logic for translating tweets to sentiment analysis and color states of visualization.
+2. NLP logic for translating tweets to sentiment analysis and color states for visualization.
 3. Shape files and visualization for Patient Engagement UI.
 4. Rshiny UI for CPIC Card/mobile app.
 
